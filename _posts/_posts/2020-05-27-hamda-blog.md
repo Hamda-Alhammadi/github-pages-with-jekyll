@@ -3,7 +3,7 @@ title: "hamda-blog"
 date: 2020-05-27
 ---
 
-#Welcome to hamda blog
+# Welcome to hamda blog .. 
 
 **Hello world**, this is my first Jekyll blog post.
 
