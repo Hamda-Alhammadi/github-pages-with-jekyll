@@ -1,5 +1,5 @@
 ---
-title: "hamda blog"
+title: "hamda-blog"
 date: 2020-05-27
 ---
 
