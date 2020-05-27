@@ -1,6 +1,6 @@
 ---
-title: "hamda-blog"
-date: 2020-05-27
+title: "YOUR-TITLE"
+date: YYYY-MM-DD
 ---
 
 # Welcome to hamda blog .. 
